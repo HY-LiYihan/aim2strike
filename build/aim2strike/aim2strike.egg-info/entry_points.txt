@@ -1,0 +1,6 @@
+[console_scripts]
+aim_node = aim2strike.aim_node:main
+camera_node = aim2strike.camera_node:main
+detect_node = aim2strike.detect_node:main
+uart_servo.py = aim2strike.uart_servo:main
+

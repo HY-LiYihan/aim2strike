@@ -1,0 +1,9 @@
+[0.381s] Invoking command in '/home/robotech/aim2strike/src/aim2strike': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[0.532s] running egg_info
+[0.532s] writing ../../build/aim2strike/camera_node.egg-info/PKG-INFO
+[0.532s] writing dependency_links to ../../build/aim2strike/camera_node.egg-info/dependency_links.txt
+[0.532s] writing entry points to ../../build/aim2strike/camera_node.egg-info/entry_points.txt
+[0.532s] writing requirements to ../../build/aim2strike/camera_node.egg-info/requires.txt
+[0.532s] writing top-level names to ../../build/aim2strike/camera_node.egg-info/top_level.txt
+[0.533s] error: package directory 'camera_node' does not exist
+[0.545s] Invoked command in '/home/robotech/aim2strike/src/aim2strike' returned '1': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data

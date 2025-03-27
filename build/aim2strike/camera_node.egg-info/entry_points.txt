@@ -1,0 +1,3 @@
+[console_scripts]
+camera_node = aim2strike.camera_node:main
+

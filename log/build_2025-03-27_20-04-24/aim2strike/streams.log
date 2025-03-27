@@ -1,0 +1,35 @@
+[0.368s] Invoking command in '/home/robotech/aim2strike/src/aim2strike': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[0.514s] running egg_info
+[0.515s] creating ../../build/aim2strike/aim2strike.egg-info
+[0.515s] writing ../../build/aim2strike/aim2strike.egg-info/PKG-INFO
+[0.515s] writing dependency_links to ../../build/aim2strike/aim2strike.egg-info/dependency_links.txt
+[0.515s] writing entry points to ../../build/aim2strike/aim2strike.egg-info/entry_points.txt
+[0.515s] writing requirements to ../../build/aim2strike/aim2strike.egg-info/requires.txt
+[0.515s] writing top-level names to ../../build/aim2strike/aim2strike.egg-info/top_level.txt
+[0.515s] writing manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.517s] reading manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.517s] adding license file 'LICENSE'
+[0.517s] writing manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.517s] running build
+[0.517s] running build_py
+[0.517s] creating /home/robotech/aim2strike/build/aim2strike/build
+[0.517s] creating /home/robotech/aim2strike/build/aim2strike/build/lib
+[0.517s] creating /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike
+[0.517s] copying aim2strike/camera_node.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike
+[0.517s] copying aim2strike/__init__.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike
+[0.517s] running install
+[0.519s] running install_lib
+[0.519s] creating /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike
+[0.519s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/camera_node.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike
+[0.519s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/__init__.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike
+[0.519s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/camera_node.py to camera_node.cpython-310.pyc
+[0.519s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/__init__.py to __init__.cpython-310.pyc
+[0.519s] running install_data
+[0.520s] creating /home/robotech/aim2strike/install/aim2strike/share/aim2strike/config
+[0.520s] copying config/camera_node.yaml -> /home/robotech/aim2strike/install/aim2strike/share/aim2strike/config
+[0.520s] running install_egg_info
+[0.521s] Copying ../../build/aim2strike/aim2strike.egg-info to /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info
+[0.522s] running install_scripts
+[0.537s] Installing camera_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.537s] writing list of installed files to '/home/robotech/aim2strike/build/aim2strike/install.log'
+[0.551s] Invoked command in '/home/robotech/aim2strike/src/aim2strike' returned '0': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data

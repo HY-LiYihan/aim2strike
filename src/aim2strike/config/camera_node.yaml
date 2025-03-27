@@ -1,0 +1,7 @@
+camera_node:
+  ros__parameters:
+    camera_device: "/dev/video0"
+    fourcc: "MJPG"
+    frame_width: 640
+    frame_height: 360
+    fps: 180

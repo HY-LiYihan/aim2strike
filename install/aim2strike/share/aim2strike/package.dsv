@@ -1,0 +1,6 @@
+source;share/aim2strike/hook/pythonpath.ps1
+source;share/aim2strike/hook/pythonpath.dsv
+source;share/aim2strike/hook/pythonpath.sh
+source;share/aim2strike/hook/ament_prefix_path.ps1
+source;share/aim2strike/hook/ament_prefix_path.dsv
+source;share/aim2strike/hook/ament_prefix_path.sh

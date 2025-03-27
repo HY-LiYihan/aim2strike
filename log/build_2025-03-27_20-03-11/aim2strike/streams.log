@@ -1,0 +1,11 @@
+[0.387s] Invoking command in '/home/robotech/aim2strike/src/aim2strike': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[0.538s] running egg_info
+[0.538s] creating ../../build/aim2strike/camera_node.egg-info
+[0.538s] writing ../../build/aim2strike/camera_node.egg-info/PKG-INFO
+[0.538s] writing dependency_links to ../../build/aim2strike/camera_node.egg-info/dependency_links.txt
+[0.538s] writing entry points to ../../build/aim2strike/camera_node.egg-info/entry_points.txt
+[0.538s] writing requirements to ../../build/aim2strike/camera_node.egg-info/requires.txt
+[0.538s] writing top-level names to ../../build/aim2strike/camera_node.egg-info/top_level.txt
+[0.539s] writing manifest file '../../build/aim2strike/camera_node.egg-info/SOURCES.txt'
+[0.539s] error: package directory 'camera_node' does not exist
+[0.551s] Invoked command in '/home/robotech/aim2strike/src/aim2strike' returned '1': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
