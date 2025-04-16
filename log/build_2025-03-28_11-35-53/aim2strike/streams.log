@@ -1,0 +1,28 @@
+[1.278s] Invoking command in '/home/hhl/aim2strike/src/aim2strike': PYTHONPATH=/home/hhl/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/hhl/aim2strike/build/aim2strike/build install --record /home/hhl/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[2.103s] running egg_info
+[2.114s] writing ../../build/aim2strike/aim2strike.egg-info/PKG-INFO
+[2.121s] writing dependency_links to ../../build/aim2strike/aim2strike.egg-info/dependency_links.txt
+[2.126s] writing entry points to ../../build/aim2strike/aim2strike.egg-info/entry_points.txt
+[2.128s] writing requirements to ../../build/aim2strike/aim2strike.egg-info/requires.txt
+[2.131s] writing top-level names to ../../build/aim2strike/aim2strike.egg-info/top_level.txt
+[2.163s] reading manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[2.166s] adding license file 'LICENSE'
+[2.178s] writing manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[2.178s] running build
+[2.183s] running build_py
+[2.190s] copying aim2strike/include/uart_servo.py -> /home/hhl/aim2strike/build/aim2strike/build/lib/aim2strike/include
+[2.196s] running install
+[2.198s] running install_lib
+[2.213s] copying /home/hhl/aim2strike/build/aim2strike/build/lib/aim2strike/include/uart_servo.py -> /home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/include
+[2.222s] byte-compiling /home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/include/uart_servo.py to uart_servo.cpython-310.pyc
+[2.262s] running install_data
+[2.263s] running install_egg_info
+[2.285s] removing '/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info' (and everything under it)
+[2.285s] Copying ../../build/aim2strike/aim2strike.egg-info to /home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info
+[2.297s] running install_scripts
+[2.480s] Installing aim_node script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike
+[2.480s] Installing camera_node script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike
+[2.499s] Installing detect_node script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike
+[2.499s] Installing uart_servo script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike
+[2.510s] writing list of installed files to '/home/hhl/aim2strike/build/aim2strike/install.log'
+[2.726s] Invoked command in '/home/hhl/aim2strike/src/aim2strike' returned '0': PYTHONPATH=/home/hhl/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/hhl/aim2strike/build/aim2strike/build install --record /home/hhl/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data

@@ -1,11 +1,27 @@
 aim_node:
   ros__parameters:
-    servo_port_name: '/dev/ttyUSB0'
+    servo_port_name: '/dev/ttyUSB0' # <<< 确认你的串口设备名称
     servo_baudrate: 115200
-    servo_id: [1, 2]
-    mid: [0, 2047, 2047]
-    angle_range: [[0, 0], [-1400, 1400], [-650, 1024]]
+    servo_config:
+      yaw:
+        id: 1
+        mid_pos: 2047
+        min_dev: -1400
+        max_dev: 1400
+      pitch:
+        id: 2
+        mid_pos: 2047
+        min_dev: -650  # <<< 根据你的舵机调整
+        max_dev: 1024  # <<< 根据你的舵机调整
     pid_gains:
-      Kp: 0.08
-      Ki: 0.0
-      Kd: 0.01
+      yaw:
+        Kp: 15.0       # <<< 需要仔细调整这些值
+        Ki: 0.01
+        Kd: 0.5
+      pitch:
+        Kp: 15.0       # <<< 需要仔细调整这些值
+        Ki: 0.01
+        Kd: 0.5
+    target:
+        x: 0.5         # 图像中心的归一化 X 坐标
+        y: 0.5         # 图像中心的归一化 Y 坐标

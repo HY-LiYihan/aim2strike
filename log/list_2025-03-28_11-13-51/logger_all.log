@@ -1,0 +1,112 @@
+[1.097s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'list', '-p', '--base-paths', '/home/hhl/aim2strike']
+[1.097s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='list', build_base='build', ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['/home/hhl/aim2strike'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], topological_order=False, names_only=False, paths_only=True, topological_graph=False, topological_graph_dot=False, topological_graph_density=False, topological_graph_legend=False, topological_graph_dot_cluster=False, topological_graph_dot_include_skipped=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x779778c2f5b0>, verb_extension=<colcon_package_information.verb.list.ListVerb object at 0x779778c2e6e0>, main=<bound method ListVerb.main of <colcon_package_information.verb.list.ListVerb object at 0x779778c2e6e0>>)
+[2.736s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[2.736s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[2.736s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[2.736s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[2.736s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[2.751s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/hhl/aim2strike'
+[2.752s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extensions ['ignore', 'ignore_ament_install']
+[2.752s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'ignore'
+[2.752s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'ignore_ament_install'
+[2.753s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extensions ['colcon_pkg']
+[2.753s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'colcon_pkg'
+[2.753s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extensions ['colcon_meta']
+[2.753s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'colcon_meta'
+[2.753s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extensions ['ros']
+[2.753s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'ros'
+[3.105s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extensions ['cmake', 'python']
+[3.117s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'cmake'
+[3.117s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'python'
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extensions ['python_setup_py']
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike) by extension 'python_setup_py'
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extensions ['ignore', 'ignore_ament_install']
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'ignore'
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'ignore_ament_install'
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extensions ['colcon_pkg']
+[3.118s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'colcon_pkg'
+[3.119s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extensions ['colcon_meta']
+[3.119s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'colcon_meta'
+[3.119s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extensions ['ros']
+[3.119s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'ros'
+[3.119s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extensions ['cmake', 'python']
+[3.119s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'cmake'
+[3.139s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'python'
+[3.148s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extensions ['python_setup_py']
+[3.148s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK) by extension 'python_setup_py'
+[3.149s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extensions ['ignore', 'ignore_ament_install']
+[3.149s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'ignore'
+[3.149s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'ignore_ament_install'
+[3.150s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extensions ['colcon_pkg']
+[3.155s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'colcon_pkg'
+[3.156s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extensions ['colcon_meta']
+[3.156s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'colcon_meta'
+[3.156s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extensions ['ros']
+[3.156s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'ros'
+[3.156s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extensions ['cmake', 'python']
+[3.157s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'cmake'
+[3.157s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'python'
+[3.157s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extensions ['python_setup_py']
+[3.157s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK) by extension 'python_setup_py'
+[3.157s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extensions ['ignore', 'ignore_ament_install']
+[3.157s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'ignore'
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'ignore_ament_install'
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extensions ['colcon_pkg']
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'colcon_pkg'
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extensions ['colcon_meta']
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'colcon_meta'
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extensions ['ros']
+[3.158s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'ros'
+[3.161s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extensions ['cmake', 'python']
+[3.163s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'cmake'
+[3.165s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'python'
+[3.165s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extensions ['python_setup_py']
+[3.165s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src) by extension 'python_setup_py'
+[3.168s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extensions ['ignore', 'ignore_ament_install']
+[3.169s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'ignore'
+[3.169s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'ignore_ament_install'
+[3.170s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extensions ['colcon_pkg']
+[3.170s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'colcon_pkg'
+[3.170s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extensions ['colcon_meta']
+[3.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'colcon_meta'
+[3.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extensions ['ros']
+[3.171s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'ros'
+[3.172s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extensions ['cmake', 'python']
+[3.172s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'cmake'
+[3.172s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'python'
+[3.172s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extensions ['python_setup_py']
+[3.172s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/Python SDK/Python SDK/src/__pycache__) by extension 'python_setup_py'
+[3.173s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/build) by extensions ['ignore', 'ignore_ament_install']
+[3.173s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/build) by extension 'ignore'
+[3.173s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/build) ignored
+[3.174s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/install) by extensions ['ignore', 'ignore_ament_install']
+[3.176s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/install) by extension 'ignore'
+[3.176s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/install) ignored
+[3.179s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/log) by extensions ['ignore', 'ignore_ament_install']
+[3.181s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/log) by extension 'ignore'
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/log) ignored
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extensions ['ignore', 'ignore_ament_install']
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'ignore'
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'ignore_ament_install'
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extensions ['colcon_pkg']
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'colcon_pkg'
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extensions ['colcon_meta']
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'colcon_meta'
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extensions ['ros']
+[3.182s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'ros'
+[3.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extensions ['cmake', 'python']
+[3.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'cmake'
+[3.183s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'python'
+[3.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extensions ['python_setup_py']
+[3.185s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src) by extension 'python_setup_py'
+[3.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extensions ['ignore', 'ignore_ament_install']
+[3.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extension 'ignore'
+[3.187s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extension 'ignore_ament_install'
+[3.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extensions ['colcon_pkg']
+[3.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extension 'colcon_pkg'
+[3.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extensions ['colcon_meta']
+[3.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extension 'colcon_meta'
+[3.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extensions ['ros']
+[3.188s] Level 1:colcon.colcon_core.package_identification:_identify(/home/hhl/aim2strike/src/aim2strike) by extension 'ros'
+[3.198s] DEBUG:colcon.colcon_core.package_identification:Package '/home/hhl/aim2strike/src/aim2strike' with type 'ros.ament_python' and name 'aim2strike'
+[3.199s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults

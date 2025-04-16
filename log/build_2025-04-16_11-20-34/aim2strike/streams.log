@@ -1,0 +1,52 @@
+[0.387s] Invoking command in '/home/robotech/aim2strike/src/aim2strike': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[0.547s] running egg_info
+[0.547s] writing ../../build/aim2strike/aim2strike.egg-info/PKG-INFO
+[0.547s] writing dependency_links to ../../build/aim2strike/aim2strike.egg-info/dependency_links.txt
+[0.547s] writing entry points to ../../build/aim2strike/aim2strike.egg-info/entry_points.txt
+[0.547s] writing requirements to ../../build/aim2strike/aim2strike.egg-info/requires.txt
+[0.547s] writing top-level names to ../../build/aim2strike/aim2strike.egg-info/top_level.txt
+[0.548s] reading manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.549s] adding license file 'LICENSE'
+[0.549s] writing manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.549s] running build
+[0.549s] running build_py
+[0.549s] creating /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.549s] copying aim2strike/MvImport/PixelType_header.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.549s] copying aim2strike/MvImport/MvErrorDefine_const.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.549s] copying aim2strike/MvImport/CameraParams_header.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.549s] copying aim2strike/MvImport/PixelType_const.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.550s] copying aim2strike/MvImport/CameraParams_const.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.550s] copying aim2strike/MvImport/__init__.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.550s] copying aim2strike/MvImport/MvCameraControl_class.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport
+[0.550s] copying aim2strike/include/hikvision_capture.py -> /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/include
+[0.550s] running install
+[0.550s] running install_lib
+[0.551s] creating /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/PixelType_header.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/MvErrorDefine_const.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/CameraParams_header.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/PixelType_const.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/CameraParams_const.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/__init__.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/MvImport/MvCameraControl_class.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport
+[0.551s] copying /home/robotech/aim2strike/build/aim2strike/build/lib/aim2strike/include/hikvision_capture.py -> /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/include
+[0.552s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/PixelType_header.py to PixelType_header.cpython-310.pyc
+[0.553s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/MvErrorDefine_const.py to MvErrorDefine_const.cpython-310.pyc
+[0.553s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/CameraParams_header.py to CameraParams_header.cpython-310.pyc
+[0.557s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/PixelType_const.py to PixelType_const.cpython-310.pyc
+[0.557s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/CameraParams_const.py to CameraParams_const.cpython-310.pyc
+[0.557s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/__init__.py to __init__.cpython-310.pyc
+[0.557s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/MvImport/MvCameraControl_class.py to MvCameraControl_class.cpython-310.pyc
+[0.561s] byte-compiling /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/include/hikvision_capture.py to hikvision_capture.cpython-310.pyc
+[0.563s] running install_data
+[0.563s] running install_egg_info
+[0.564s] removing '/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info' (and everything under it)
+[0.564s] Copying ../../build/aim2strike/aim2strike.egg-info to /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info
+[0.565s] running install_scripts
+[0.577s] Installing aim_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.577s] Installing camera_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.577s] Installing detect_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.577s] Installing test script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.577s] Installing uart_servo script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.578s] writing list of installed files to '/home/robotech/aim2strike/build/aim2strike/install.log'
+[0.591s] Invoked command in '/home/robotech/aim2strike/src/aim2strike' returned '0': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data

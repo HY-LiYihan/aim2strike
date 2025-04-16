@@ -1,0 +1,182 @@
+[3.852s] DEBUG:colcon:Command line arguments: ['/usr/bin/colcon', 'build']
+[3.852s] DEBUG:colcon:Parsed command line arguments: Namespace(log_base=None, log_level=None, verb_name='build', build_base='build', install_base='install', merge_install=False, symlink_install=False, test_result_base=None, continue_on_error=False, executor='parallel', parallel_workers=2, event_handlers=None, ignore_user_meta=False, metas=['./colcon.meta'], base_paths=['.'], packages_ignore=None, packages_ignore_regex=None, paths=None, packages_up_to=None, packages_up_to_regex=None, packages_above=None, packages_above_and_dependencies=None, packages_above_depth=None, packages_select_by_dep=None, packages_skip_by_dep=None, packages_skip_up_to=None, packages_select_build_failed=False, packages_skip_build_finished=False, packages_select_test_failures=False, packages_skip_test_passed=False, packages_select=None, packages_skip=None, packages_select_regex=None, packages_skip_regex=None, packages_start=None, packages_end=None, allow_overriding=[], cmake_args=None, cmake_target=None, cmake_target_skip_unavailable=False, cmake_clean_cache=False, cmake_clean_first=False, cmake_force_configure=False, ament_cmake_args=None, catkin_cmake_args=None, catkin_skip_building_tests=False, verb_parser=<colcon_defaults.argument_parser.defaults.DefaultArgumentsDecorator object at 0x79f249632b30>, verb_extension=<colcon_core.verb.build.BuildVerb object at 0x79f24971b6d0>, main=<bound method BuildVerb.main of <colcon_core.verb.build.BuildVerb object at 0x79f24971b6d0>>)
+[8.909s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) check parameters
+[8.910s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) check parameters
+[8.910s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) check parameters
+[8.910s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) check parameters
+[8.910s] Level 1:colcon.colcon_core.package_discovery:discover_packages(colcon_meta) discover
+[8.910s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) discover
+[8.910s] INFO:colcon.colcon_core.package_discovery:Crawling recursively for packages in '/home/hhl/aim2strike'
+[8.920s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ignore', 'ignore_ament_install']
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore'
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ignore_ament_install'
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_pkg']
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_pkg'
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['colcon_meta']
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'colcon_meta'
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['ros']
+[8.921s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'ros'
+[9.295s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['cmake', 'python']
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'cmake'
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python'
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extensions ['python_setup_py']
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(.) by extension 'python_setup_py'
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extensions ['ignore', 'ignore_ament_install']
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'ignore'
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'ignore_ament_install'
+[9.296s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extensions ['colcon_pkg']
+[9.327s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'colcon_pkg'
+[9.328s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extensions ['colcon_meta']
+[9.328s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'colcon_meta'
+[9.346s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extensions ['ros']
+[9.347s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'ros'
+[9.347s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extensions ['cmake', 'python']
+[9.347s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'cmake'
+[9.359s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'python'
+[9.361s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extensions ['python_setup_py']
+[9.367s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK) by extension 'python_setup_py'
+[9.372s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extensions ['ignore', 'ignore_ament_install']
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'ignore'
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'ignore_ament_install'
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extensions ['colcon_pkg']
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'colcon_pkg'
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extensions ['colcon_meta']
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'colcon_meta'
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extensions ['ros']
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'ros'
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extensions ['cmake', 'python']
+[9.373s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'cmake'
+[9.386s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'python'
+[9.395s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extensions ['python_setup_py']
+[9.395s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK) by extension 'python_setup_py'
+[9.395s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extensions ['ignore', 'ignore_ament_install']
+[9.395s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'ignore'
+[9.395s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'ignore_ament_install'
+[9.401s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extensions ['colcon_pkg']
+[9.401s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'colcon_pkg'
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extensions ['colcon_meta']
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'colcon_meta'
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extensions ['ros']
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'ros'
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extensions ['cmake', 'python']
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'cmake'
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'python'
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extensions ['python_setup_py']
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src) by extension 'python_setup_py'
+[9.402s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extensions ['ignore', 'ignore_ament_install']
+[9.423s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'ignore'
+[9.423s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'ignore_ament_install'
+[9.423s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extensions ['colcon_pkg']
+[9.423s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'colcon_pkg'
+[9.423s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extensions ['colcon_meta']
+[9.423s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'colcon_meta'
+[9.429s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extensions ['ros']
+[9.429s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'ros'
+[9.429s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extensions ['cmake', 'python']
+[9.429s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'cmake'
+[9.429s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'python'
+[9.429s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extensions ['python_setup_py']
+[9.441s] Level 1:colcon.colcon_core.package_identification:_identify(Python SDK/Python SDK/src/__pycache__) by extension 'python_setup_py'
+[9.441s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extensions ['ignore', 'ignore_ament_install']
+[9.452s] Level 1:colcon.colcon_core.package_identification:_identify(build) by extension 'ignore'
+[9.452s] Level 1:colcon.colcon_core.package_identification:_identify(build) ignored
+[9.468s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extensions ['ignore', 'ignore_ament_install']
+[9.469s] Level 1:colcon.colcon_core.package_identification:_identify(install) by extension 'ignore'
+[9.469s] Level 1:colcon.colcon_core.package_identification:_identify(install) ignored
+[9.477s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extensions ['ignore', 'ignore_ament_install']
+[9.483s] Level 1:colcon.colcon_core.package_identification:_identify(log) by extension 'ignore'
+[9.483s] Level 1:colcon.colcon_core.package_identification:_identify(log) ignored
+[9.483s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ignore', 'ignore_ament_install']
+[9.509s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore'
+[9.509s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ignore_ament_install'
+[9.509s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_pkg']
+[9.517s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_pkg'
+[9.519s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['colcon_meta']
+[9.534s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'colcon_meta'
+[9.534s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['ros']
+[9.534s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'ros'
+[9.534s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['cmake', 'python']
+[9.561s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'cmake'
+[9.561s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python'
+[9.561s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extensions ['python_setup_py']
+[9.561s] Level 1:colcon.colcon_core.package_identification:_identify(src) by extension 'python_setup_py'
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extensions ['ignore', 'ignore_ament_install']
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extension 'ignore'
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extension 'ignore_ament_install'
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extensions ['colcon_pkg']
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extension 'colcon_pkg'
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extensions ['colcon_meta']
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extension 'colcon_meta'
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extensions ['ros']
+[9.562s] Level 1:colcon.colcon_core.package_identification:_identify(src/aim2strike) by extension 'ros'
+[9.637s] DEBUG:colcon.colcon_core.package_identification:Package 'src/aim2strike' with type 'ros.ament_python' and name 'aim2strike'
+[9.659s] Level 1:colcon.colcon_core.package_discovery:discover_packages(recursive) using defaults
+[9.659s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) discover
+[9.659s] Level 1:colcon.colcon_core.package_discovery:discover_packages(ignore) using defaults
+[9.659s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) discover
+[9.660s] Level 1:colcon.colcon_core.package_discovery:discover_packages(path) using defaults
+[10.132s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) check parameters
+[10.132s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) discover
+[10.179s] DEBUG:colcon.colcon_installed_package_information.package_discovery:Found 280 installed packages in /opt/ros/humble
+[10.403s] Level 1:colcon.colcon_core.package_discovery:discover_packages(prefix_path) using defaults
+[11.613s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'cmake_args' from command line to 'None'
+[11.613s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'cmake_target' from command line to 'None'
+[11.613s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'cmake_target_skip_unavailable' from command line to 'False'
+[11.613s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'cmake_clean_cache' from command line to 'False'
+[11.628s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'cmake_clean_first' from command line to 'False'
+[11.631s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'cmake_force_configure' from command line to 'False'
+[11.632s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'ament_cmake_args' from command line to 'None'
+[11.632s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'catkin_cmake_args' from command line to 'None'
+[11.632s] Level 5:colcon.colcon_core.verb:set package 'aim2strike' build argument 'catkin_skip_building_tests' from command line to 'False'
+[11.632s] DEBUG:colcon.colcon_core.verb:Building package 'aim2strike' with the following arguments: {'ament_cmake_args': None, 'build_base': '/home/hhl/aim2strike/build/aim2strike', 'catkin_cmake_args': None, 'catkin_skip_building_tests': False, 'cmake_args': None, 'cmake_clean_cache': False, 'cmake_clean_first': False, 'cmake_force_configure': False, 'cmake_target': None, 'cmake_target_skip_unavailable': False, 'install_base': '/home/hhl/aim2strike/install/aim2strike', 'merge_install': False, 'path': '/home/hhl/aim2strike/src/aim2strike', 'symlink_install': False, 'test_result_base': None}
+[11.632s] INFO:colcon.colcon_core.executor:Executing jobs using 'parallel' executor
+[11.713s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete
+[11.720s] INFO:colcon.colcon_ros.task.ament_python.build:Building ROS package in '/home/hhl/aim2strike/src/aim2strike' with build type 'ament_python'
+[11.721s] Level 1:colcon.colcon_core.shell:create_environment_hook('aim2strike', 'ament_prefix_path')
+[11.808s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_core.shell.bat': Not used on non-Windows systems
+[11.810s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/hook/ament_prefix_path.ps1'
+[11.824s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/hook/ament_prefix_path.dsv'
+[11.836s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/hook/ament_prefix_path.sh'
+[11.857s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[11.857s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[21.211s] INFO:colcon.colcon_core.task.python.build:Building Python package in '/home/hhl/aim2strike/src/aim2strike'
+[21.212s] INFO:colcon.colcon_core.shell:Skip shell extension 'powershell' for command environment: Not usable outside of PowerShell
+[21.212s] DEBUG:colcon.colcon_core.shell:Skip shell extension 'dsv' for command environment
+[29.560s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoking command in '/home/hhl/aim2strike/src/aim2strike': PYTHONPATH=/home/hhl/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/hhl/aim2strike/build/aim2strike/build install --record /home/hhl/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[35.568s] DEBUG:colcon.colcon_core.event_handler.log_command:Invoked command in '/home/hhl/aim2strike/src/aim2strike' returned '0': PYTHONPATH=/home/hhl/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/hhl/aim2strike/build/aim2strike/build install --record /home/hhl/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[35.702s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike' for CMake module files
+[35.703s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike' for CMake config files
+[35.727s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike/lib'
+[35.733s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike/bin'
+[35.733s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike/lib/pkgconfig/aim2strike.pc'
+[35.739s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages'
+[35.747s] Level 1:colcon.colcon_core.shell:create_environment_hook('aim2strike', 'pythonpath')
+[35.748s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/hook/pythonpath.ps1'
+[35.756s] INFO:colcon.colcon_core.shell:Creating environment descriptor '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/hook/pythonpath.dsv'
+[35.785s] INFO:colcon.colcon_core.shell:Creating environment hook '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/hook/pythonpath.sh'
+[35.817s] Level 1:colcon.colcon_core.environment:checking '/home/hhl/aim2strike/install/aim2strike/bin'
+[35.817s] Level 1:colcon.colcon_core.environment:create_environment_scripts_only(aim2strike)
+[35.818s] INFO:colcon.colcon_core.shell:Creating package script '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/package.ps1'
+[35.850s] INFO:colcon.colcon_core.shell:Creating package descriptor '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/package.dsv'
+[35.867s] INFO:colcon.colcon_core.shell:Creating package script '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/package.sh'
+[35.880s] INFO:colcon.colcon_core.shell:Creating package script '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/package.bash'
+[35.887s] INFO:colcon.colcon_core.shell:Creating package script '/home/hhl/aim2strike/install/aim2strike/share/aim2strike/package.zsh'
+[35.906s] Level 1:colcon.colcon_core.environment:create_file_with_runtime_dependencies(/home/hhl/aim2strike/install/aim2strike/share/colcon-core/packages/aim2strike)
+[35.907s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:closing loop
+[35.907s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:loop closed
+[35.907s] DEBUG:colcon.colcon_parallel_executor.executor.parallel:run_until_complete finished with '0'
+[35.907s] DEBUG:colcon.colcon_core.event_reactor:joining thread
+[36.225s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.terminal_notifier': Not used on non-Darwin systems
+[36.233s] INFO:colcon.colcon_core.plugin_system:Skipping extension 'colcon_notification.desktop_notification.win32': Not used on non-Windows systems
+[36.234s] INFO:colcon.colcon_notification.desktop_notification:Sending desktop notification using 'notify2'
+[37.570s] DEBUG:colcon.colcon_core.event_reactor:joined thread
+[37.571s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hhl/aim2strike/install/local_setup.ps1'
+[37.582s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/hhl/aim2strike/install/_local_setup_util_ps1.py'
+[37.619s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hhl/aim2strike/install/setup.ps1'
+[37.633s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hhl/aim2strike/install/local_setup.sh'
+[37.647s] INFO:colcon.colcon_core.shell:Creating prefix util module '/home/hhl/aim2strike/install/_local_setup_util_sh.py'
+[37.687s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hhl/aim2strike/install/setup.sh'
+[37.718s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hhl/aim2strike/install/local_setup.bash'
+[37.745s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hhl/aim2strike/install/setup.bash'
+[37.765s] INFO:colcon.colcon_core.shell:Creating prefix script '/home/hhl/aim2strike/install/local_setup.zsh'
+[37.779s] INFO:colcon.colcon_core.shell:Creating prefix chain script '/home/hhl/aim2strike/install/setup.zsh'

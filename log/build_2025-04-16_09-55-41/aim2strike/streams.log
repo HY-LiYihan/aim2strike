@@ -1,0 +1,25 @@
+[0.381s] Invoking command in '/home/robotech/aim2strike/src/aim2strike': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data
+[0.533s] running egg_info
+[0.534s] writing ../../build/aim2strike/aim2strike.egg-info/PKG-INFO
+[0.534s] writing dependency_links to ../../build/aim2strike/aim2strike.egg-info/dependency_links.txt
+[0.534s] writing entry points to ../../build/aim2strike/aim2strike.egg-info/entry_points.txt
+[0.534s] writing requirements to ../../build/aim2strike/aim2strike.egg-info/requires.txt
+[0.534s] writing top-level names to ../../build/aim2strike/aim2strike.egg-info/top_level.txt
+[0.535s] reading manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.535s] adding license file 'LICENSE'
+[0.536s] writing manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'
+[0.536s] running build
+[0.536s] running build_py
+[0.536s] running install
+[0.536s] running install_lib
+[0.537s] running install_data
+[0.537s] running install_egg_info
+[0.538s] removing '/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info' (and everything under it)
+[0.539s] Copying ../../build/aim2strike/aim2strike.egg-info to /home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info
+[0.539s] running install_scripts
+[0.553s] Installing aim_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.553s] Installing camera_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.553s] Installing detect_node script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.553s] Installing uart_servo script to /home/robotech/aim2strike/install/aim2strike/lib/aim2strike
+[0.553s] writing list of installed files to '/home/robotech/aim2strike/build/aim2strike/install.log'
+[0.567s] Invoked command in '/home/robotech/aim2strike/src/aim2strike' returned '0': PYTHONPATH=/home/robotech/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robotech/aim2strike/install/aim2strike/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/aim2strike build --build-base /home/robotech/aim2strike/build/aim2strike/build install --record /home/robotech/aim2strike/build/aim2strike/install.log --single-version-externally-managed install_data

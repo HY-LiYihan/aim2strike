@@ -1,0 +1,253 @@
+[0.000000] (-) TimerEvent: {}
+[0.038973] (aim2strike) JobQueued: {'identifier': 'aim2strike', 'dependencies': OrderedDict()}
+[0.045623] (aim2strike) JobStarted: {'identifier': 'aim2strike'}
+[0.102924] (-) TimerEvent: {}
+[0.207292] (-) TimerEvent: {}
+[0.335697] (-) TimerEvent: {}
+[0.444692] (-) TimerEvent: {}
+[0.546766] (-) TimerEvent: {}
+[0.649135] (-) TimerEvent: {}
+[0.762565] (-) TimerEvent: {}
+[0.866698] (-) TimerEvent: {}
+[0.975419] (-) TimerEvent: {}
+[1.082134] (-) TimerEvent: {}
+[1.185184] (-) TimerEvent: {}
+[1.289222] (-) TimerEvent: {}
+[1.423898] (-) TimerEvent: {}
+[1.533904] (-) TimerEvent: {}
+[1.652280] (-) TimerEvent: {}
+[1.763682] (-) TimerEvent: {}
+[1.890394] (-) TimerEvent: {}
+[1.994652] (-) TimerEvent: {}
+[2.113130] (-) TimerEvent: {}
+[2.219807] (-) TimerEvent: {}
+[2.326492] (-) TimerEvent: {}
+[2.450454] (-) TimerEvent: {}
+[2.574610] (-) TimerEvent: {}
+[2.679425] (-) TimerEvent: {}
+[2.783539] (-) TimerEvent: {}
+[2.895338] (-) TimerEvent: {}
+[3.022840] (-) TimerEvent: {}
+[3.157273] (-) TimerEvent: {}
+[3.262377] (-) TimerEvent: {}
+[3.369573] (-) TimerEvent: {}
+[3.493611] (-) TimerEvent: {}
+[3.600961] (-) TimerEvent: {}
+[3.710656] (-) TimerEvent: {}
+[3.845688] (-) TimerEvent: {}
+[3.963496] (-) TimerEvent: {}
+[4.071823] (-) TimerEvent: {}
+[4.192455] (-) TimerEvent: {}
+[4.292883] (-) TimerEvent: {}
+[4.396266] (-) TimerEvent: {}
+[4.501683] (-) TimerEvent: {}
+[4.610958] (-) TimerEvent: {}
+[4.716475] (-) TimerEvent: {}
+[4.818468] (-) TimerEvent: {}
+[4.930060] (-) TimerEvent: {}
+[5.036670] (-) TimerEvent: {}
+[5.141187] (-) TimerEvent: {}
+[5.254356] (-) TimerEvent: {}
+[5.359843] (-) TimerEvent: {}
+[5.471900] (-) TimerEvent: {}
+[5.580285] (-) TimerEvent: {}
+[5.688013] (-) TimerEvent: {}
+[5.793715] (-) TimerEvent: {}
+[5.913492] (-) TimerEvent: {}
+[6.019957] (-) TimerEvent: {}
+[6.132813] (-) TimerEvent: {}
+[6.257183] (-) TimerEvent: {}
+[6.381992] (-) TimerEvent: {}
+[6.504270] (-) TimerEvent: {}
+[6.610276] (-) TimerEvent: {}
+[6.724915] (-) TimerEvent: {}
+[6.845308] (-) TimerEvent: {}
+[6.961307] (-) TimerEvent: {}
+[7.070372] (-) TimerEvent: {}
+[7.181551] (-) TimerEvent: {}
+[7.286481] (-) TimerEvent: {}
+[7.404354] (-) TimerEvent: {}
+[7.530994] (-) TimerEvent: {}
+[7.635520] (-) TimerEvent: {}
+[7.743026] (-) TimerEvent: {}
+[7.851294] (-) TimerEvent: {}
+[7.955907] (-) TimerEvent: {}
+[8.070072] (-) TimerEvent: {}
+[8.173936] (-) TimerEvent: {}
+[8.276881] (-) TimerEvent: {}
+[8.393790] (-) TimerEvent: {}
+[8.505388] (-) TimerEvent: {}
+[8.613916] (-) TimerEvent: {}
+[8.718313] (-) TimerEvent: {}
+[8.824788] (-) TimerEvent: {}
+[8.932176] (-) TimerEvent: {}
+[9.046264] (-) TimerEvent: {}
+[9.146603] (-) TimerEvent: {}
+[9.248922] (-) TimerEvent: {}
+[9.351667] (-) TimerEvent: {}
+[9.478466] (-) TimerEvent: {}
+[9.591453] (-) TimerEvent: {}
+[9.702954] (-) TimerEvent: {}
+[9.808607] (-) TimerEvent: {}
+[9.920524] (-) TimerEvent: {}
+[10.034578] (-) TimerEvent: {}
+[10.139939] (-) TimerEvent: {}
+[10.241937] (-) TimerEvent: {}
+[10.351555] (-) TimerEvent: {}
+[10.453910] (-) TimerEvent: {}
+[10.555273] (-) TimerEvent: {}
+[10.666872] (-) TimerEvent: {}
+[10.774773] (-) TimerEvent: {}
+[10.875352] (-) TimerEvent: {}
+[10.981900] (-) TimerEvent: {}
+[11.098712] (-) TimerEvent: {}
+[11.202923] (-) TimerEvent: {}
+[11.316508] (-) TimerEvent: {}
+[11.417162] (-) TimerEvent: {}
+[11.518041] (-) TimerEvent: {}
+[11.657234] (-) TimerEvent: {}
+[11.769042] (-) TimerEvent: {}
+[11.905917] (-) TimerEvent: {}
+[12.013373] (-) TimerEvent: {}
+[12.132914] (-) TimerEvent: {}
+[12.243273] (-) TimerEvent: {}
+[12.352287] (-) TimerEvent: {}
+[12.466094] (-) TimerEvent: {}
+[12.575669] (-) TimerEvent: {}
+[12.686623] (-) TimerEvent: {}
+[12.789601] (-) TimerEvent: {}
+[12.896573] (-) TimerEvent: {}
+[13.004251] (-) TimerEvent: {}
+[13.110057] (-) TimerEvent: {}
+[13.212595] (-) TimerEvent: {}
+[13.319671] (-) TimerEvent: {}
+[13.425675] (-) TimerEvent: {}
+[13.535233] (-) TimerEvent: {}
+[13.647622] (-) TimerEvent: {}
+[13.771599] (-) TimerEvent: {}
+[13.875156] (-) TimerEvent: {}
+[13.984300] (-) TimerEvent: {}
+[14.096532] (-) TimerEvent: {}
+[14.211613] (-) TimerEvent: {}
+[14.317347] (-) TimerEvent: {}
+[14.429209] (-) TimerEvent: {}
+[14.550739] (-) TimerEvent: {}
+[14.661536] (-) TimerEvent: {}
+[14.764971] (-) TimerEvent: {}
+[14.868582] (-) TimerEvent: {}
+[14.973660] (-) TimerEvent: {}
+[15.081603] (-) TimerEvent: {}
+[15.188430] (-) TimerEvent: {}
+[15.295566] (-) TimerEvent: {}
+[15.396738] (-) TimerEvent: {}
+[15.499622] (-) TimerEvent: {}
+[15.607804] (-) TimerEvent: {}
+[15.710330] (-) TimerEvent: {}
+[15.812028] (-) TimerEvent: {}
+[15.919138] (-) TimerEvent: {}
+[16.021163] (-) TimerEvent: {}
+[16.125037] (-) TimerEvent: {}
+[16.238543] (-) TimerEvent: {}
+[16.341559] (-) TimerEvent: {}
+[16.445895] (-) TimerEvent: {}
+[16.554298] (-) TimerEvent: {}
+[16.659492] (-) TimerEvent: {}
+[16.764354] (-) TimerEvent: {}
+[16.872308] (-) TimerEvent: {}
+[16.974903] (-) TimerEvent: {}
+[17.081825] (-) TimerEvent: {}
+[17.182716] (-) TimerEvent: {}
+[17.299000] (-) TimerEvent: {}
+[17.405055] (-) TimerEvent: {}
+[17.521414] (-) TimerEvent: {}
+[17.622371] (-) TimerEvent: {}
+[17.744336] (-) TimerEvent: {}
+[17.879088] (-) TimerEvent: {}
+[17.883799] (aim2strike) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/aim2strike', 'build', '--build-base', '/home/hhl/aim2strike/build/aim2strike/build', 'install', '--record', '/home/hhl/aim2strike/build/aim2strike/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/hhl/aim2strike/src/aim2strike', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US:en', 'USER': 'hhl', 'LC_TIME': 'zh_CN.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '2', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/hhl', 'CHROME_DESKTOP': 'code.desktop', 'TERM_PROGRAM_VERSION': '1.95.3', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'zh_CN.UTF-8', 'DBUS_STARTER_BUS_TYPE': 'session', 'SYSTEMD_EXEC_PID': '1453', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus,guid=65d853e192dfda0bd67d8fa367e6124d', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'hhl', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'hhl', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/home/hhl/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/hhl/bin:/home/hhl/Documents:/home/hhl/bin:/home/hhl/Documents', 'SESSION_MANAGER': 'local/hhl-VM:@/tmp/.ICE-unix/1453,unix/hhl-VM:/tmp/.ICE-unix/1453', 'PAPERSIZE': 'a4', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'zh_CN.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/94ab025f_fdf0_4c6f_b0cb_fe46c29be2fc', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'x11', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'Unity', 'LC_TELEPHONE': 'zh_CN.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.HLWB42', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.143', 'TERM_PROGRAM': 'vscode', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'SHELL': '/bin/bash', 'LC_NAME': 'zh_CN.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'zh_CN.UTF-8', 'LC_IDENTIFICATION': 'zh_CN.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/hhl/aim2strike/build/aim2strike', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'DBUS_STARTER_ADDRESS': 'unix:path=/run/user/1000/bus,guid=65d853e192dfda0bd67d8fa367e6124d', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/hhl/aim2strike/build/aim2strike/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'zh_CN.UTF-8', 'LC_PAPER': 'zh_CN.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800'}, 'shell': False}
+[17.997978] (-) TimerEvent: {}
+[18.106722] (-) TimerEvent: {}
+[18.208823] (-) TimerEvent: {}
+[18.319935] (-) TimerEvent: {}
+[18.423630] (-) TimerEvent: {}
+[18.531210] (-) TimerEvent: {}
+[18.641024] (-) TimerEvent: {}
+[18.747358] (-) TimerEvent: {}
+[18.857149] (-) TimerEvent: {}
+[18.968151] (-) TimerEvent: {}
+[19.088192] (-) TimerEvent: {}
+[19.189493] (-) TimerEvent: {}
+[19.292278] (-) TimerEvent: {}
+[19.395650] (-) TimerEvent: {}
+[19.515678] (-) TimerEvent: {}
+[19.616990] (-) TimerEvent: {}
+[19.727043] (-) TimerEvent: {}
+[19.831145] (-) TimerEvent: {}
+[19.941700] (-) TimerEvent: {}
+[20.053913] (-) TimerEvent: {}
+[20.155800] (-) TimerEvent: {}
+[20.261469] (-) TimerEvent: {}
+[20.368211] (-) TimerEvent: {}
+[20.474731] (-) TimerEvent: {}
+[20.575496] (-) TimerEvent: {}
+[20.682812] (-) TimerEvent: {}
+[20.794000] (-) TimerEvent: {}
+[20.918498] (-) TimerEvent: {}
+[21.035960] (-) TimerEvent: {}
+[21.207087] (-) TimerEvent: {}
+[21.321658] (-) TimerEvent: {}
+[21.424439] (-) TimerEvent: {}
+[21.527120] (-) TimerEvent: {}
+[21.642957] (-) TimerEvent: {}
+[21.744801] (-) TimerEvent: {}
+[21.857729] (-) TimerEvent: {}
+[21.989679] (-) TimerEvent: {}
+[22.093450] (-) TimerEvent: {}
+[22.194195] (-) TimerEvent: {}
+[22.306924] (-) TimerEvent: {}
+[22.408251] (-) TimerEvent: {}
+[22.513561] (-) TimerEvent: {}
+[22.614619] (-) TimerEvent: {}
+[22.725028] (-) TimerEvent: {}
+[22.834295] (-) TimerEvent: {}
+[22.942598] (-) TimerEvent: {}
+[23.044607] (-) TimerEvent: {}
+[23.152567] (-) TimerEvent: {}
+[23.254772] (aim2strike) StdoutLine: {'line': b'running egg_info\n'}
+[23.256112] (-) TimerEvent: {}
+[23.264085] (aim2strike) StdoutLine: {'line': b'writing ../../build/aim2strike/aim2strike.egg-info/PKG-INFO\n'}
+[23.292933] (aim2strike) StdoutLine: {'line': b'writing dependency_links to ../../build/aim2strike/aim2strike.egg-info/dependency_links.txt\n'}
+[23.313655] (aim2strike) StdoutLine: {'line': b'writing entry points to ../../build/aim2strike/aim2strike.egg-info/entry_points.txt\n'}
+[23.331762] (aim2strike) StdoutLine: {'line': b'writing requirements to ../../build/aim2strike/aim2strike.egg-info/requires.txt\n'}
+[23.334409] (aim2strike) StdoutLine: {'line': b'writing top-level names to ../../build/aim2strike/aim2strike.egg-info/top_level.txt\n'}
+[23.367450] (-) TimerEvent: {}
+[23.452516] (aim2strike) StdoutLine: {'line': b"reading manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'\n"}
+[23.472227] (aim2strike) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[23.472521] (-) TimerEvent: {}
+[23.473646] (aim2strike) StdoutLine: {'line': b"writing manifest file '../../build/aim2strike/aim2strike.egg-info/SOURCES.txt'\n"}
+[23.485033] (aim2strike) StdoutLine: {'line': b'running build\n'}
+[23.489787] (aim2strike) StdoutLine: {'line': b'running build_py\n'}
+[23.489955] (aim2strike) StdoutLine: {'line': b'copying aim2strike/aim_node.py -> /home/hhl/aim2strike/build/aim2strike/build/lib/aim2strike\n'}
+[23.510165] (aim2strike) StdoutLine: {'line': b'running install\n'}
+[23.510448] (aim2strike) StdoutLine: {'line': b'running install_lib\n'}
+[23.530741] (aim2strike) StdoutLine: {'line': b'copying /home/hhl/aim2strike/build/aim2strike/build/lib/aim2strike/aim_node.py -> /home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike\n'}
+[23.538741] (aim2strike) StdoutLine: {'line': b'byte-compiling /home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike/aim_node.py to aim_node.cpython-310.pyc\n'}
+[23.575150] (aim2strike) StdoutLine: {'line': b'running install_data\n'}
+[23.575692] (-) TimerEvent: {}
+[23.575922] (aim2strike) StdoutLine: {'line': b'running install_egg_info\n'}
+[23.618978] (aim2strike) StdoutLine: {'line': b"removing '/home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info' (and everything under it)\n"}
+[23.619526] (aim2strike) StdoutLine: {'line': b'Copying ../../build/aim2strike/aim2strike.egg-info to /home/hhl/aim2strike/install/aim2strike/lib/python3.10/site-packages/aim2strike-0.0.1-py3.10.egg-info\n'}
+[23.619769] (aim2strike) StdoutLine: {'line': b'running install_scripts\n'}
+[23.685538] (-) TimerEvent: {}
+[23.802244] (-) TimerEvent: {}
+[23.815676] (aim2strike) StdoutLine: {'line': b'Installing aim_node script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike\n'}
+[23.837028] (aim2strike) StdoutLine: {'line': b'Installing camera_node script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike\n'}
+[23.837425] (aim2strike) StdoutLine: {'line': b'Installing detect_node script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike\n'}
+[23.837779] (aim2strike) StdoutLine: {'line': b'Installing uart_servo.py script to /home/hhl/aim2strike/install/aim2strike/lib/aim2strike\n'}
+[23.837901] (aim2strike) StdoutLine: {'line': b"writing list of installed files to '/home/hhl/aim2strike/build/aim2strike/install.log'\n"}
+[23.892656] (aim2strike) CommandEnded: {'returncode': 0}
+[23.907492] (-) TimerEvent: {}
+[24.010866] (-) TimerEvent: {}
+[24.141076] (-) TimerEvent: {}
+[24.236433] (aim2strike) JobEnded: {'identifier': 'aim2strike', 'rc': 0}
+[24.283986] (-) TimerEvent: {}
+[24.284353] (-) EventReactorShutdown: {}

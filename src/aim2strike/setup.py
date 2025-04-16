@@ -23,20 +23,19 @@
 #         ],
 #     },
 # )
-from setuptools import setup
+from setuptools import setup, find_packages
 
 package_name = 'aim2strike'
 
 setup(
     name=package_name,
     version='0.0.1',
-    packages=[package_name],
+    packages=find_packages(exclude=['test']),  # 自动发现所有子包
     data_files=[
         ('share/ament_index/resource_index/packages',
             ['resource/' + package_name]),
         ('share/' + package_name, ['package.xml']),
         ('share/' + package_name + '/config', ['config/camera_node.yaml']),
-        ('share/' + package_name + '/config', ['config/aim_node.yaml']),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
@@ -50,7 +49,8 @@ setup(
             'camera_node = aim2strike.camera_node:main',
             'detect_node = aim2strike.detect_node:main',
             'aim_node = aim2strike.aim_node:main',
-            'uart_servo.py = aim2strike.uart_servo:main',
+            'uart_servo = aim2strike.include.uart_servo:main',
+            'test = aim2strike.test:main',
         ],
     },
 )
